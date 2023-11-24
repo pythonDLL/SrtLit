@@ -4,7 +4,7 @@ A advanced HTPP library like tls client.
 
 # Installation Guide
 
-PyPi [srtLit](https://gay.com)
+install [srtLit](https://gay.com)
 
 > NOTE: i recommend having python 3.10 or above.
 
