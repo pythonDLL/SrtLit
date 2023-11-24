@@ -21,4 +21,5 @@ under development! releasing soon.
 # Contacts/Support
 
 Email <notgokuxd@proton.me>
+
 Ltc - LWPj4FbW8vQ97nYHJjLSLxU9kMrwty3r7o if u wanna donate some <3
