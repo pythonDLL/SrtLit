@@ -22,4 +22,4 @@ under development! releasing soon.
 
 Email <notgokuxd@proton.me>
 
-Ltc - LWPj4FbW8vQ97nYHJjLSLxU9kMrwty3r7o if u wanna donate some <3
+Ltc - LWPj4FbW8vQ97nYHJjLSLxU9kMrwty3r7o ♥
